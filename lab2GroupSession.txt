@@ -1,0 +1,23 @@
+nora alajmi 2221124988 
+haya Abdullah 2221125874
+hawraa alali 2231123208
+Amirah alsubaie 2221146629
+
+
+1.stakeholders : students / tutors / school administration 
+
+2.
+user requirements : 
+-the student should be able to book tutor sessions
+-the tutor should be able to send reminders 
+-the school administration should be able to view the booked rooms
+
+
+3.
+-the system shall allow the tutor to view the current appointments sessions with the students
+-the system shall allow the students to reserve a study room
+-the system shall allow the administrator to update exam times 
+
+4.
+-the booking page must be fast as measured by booking an appointment under 3 minutes 
+-the system should be reliable as measured by handling over 300 users at once
